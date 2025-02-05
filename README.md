@@ -21,7 +21,7 @@ git clone https://github.com/danielml-mx/xournalpp-preview.yazi.git ~/.config/ya
 
 ## Usage
 
-Make sure you add the following to your `yazi.toml` file
+Make sure you add the following to your `yazi.toml` file:
 
 ```toml
 [[plugin.prepend_previewers]]
