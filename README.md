@@ -2,11 +2,9 @@
 
 # xournalpp-preview.yazi
 
-## 
-
 A [yazi](https://github.com/sxyazi/yazi) plugin to preview Xournal++ files.
 
-<img src="" alt="preview test" width="88%">
+![screenshot-020525-135507](https://github.com/user-attachments/assets/0abeb95a-aedc-446c-8238-938d557a0528)
 
 ## 
 
