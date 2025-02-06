@@ -25,7 +25,7 @@ Make sure you add the following to your `yazi.toml` file:
 
 ```toml
 [[plugin.prepend_previewers]]
-mime = "application/gzip"
+name = "*.xopp"
 run = "xournalpp-preview"
 ```
 
@@ -34,7 +34,7 @@ Or if you're already using the other style:
 [plugin]
 prepend_previewers = [
     # ...
-    { mime = "application/gzip", run = "xournalpp-preview" },
+    { name = "*.xopp", run = "xournalpp-preview" },
 ]
 ```
 
