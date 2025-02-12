@@ -49,7 +49,9 @@ prepend_previewers = [
 ```
 
 ## TODO
-Perhaps seeking could be added, but I have not tinkered enough with yazi's Lua backend to figure it out. If you do, submit a PR and I'll gladly accept it.
+- There is a bug in which if you hover over a Xournal++ file and change to another file fast enough, the preview will never load.
+- Perhaps seeking could be added.
+- For any of these, if you know how to fix/implement them, submit a PR and I'll gladly accept it. Honestly I don't know enough about Lua to do it myself.
 
 ## License
 The only good licence is the GPL.
